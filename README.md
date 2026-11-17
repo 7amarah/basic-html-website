@@ -6,7 +6,7 @@ This project was developed as part of the HTML Fundamentals learning path on [ro
 
 ## Live Demo
 
-[View the Live CV](https://7amarah.github.io/plain-html-single-page-cv/)
+[View the Live CV](https://7amarah.github.io/basic-html-website/)
 
 ## Project Overview
 
@@ -66,18 +66,18 @@ You only need:
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:7amarah/plain-html-single-page-cv.git
+   git clone git@github.com:7amarah/basic-html-website.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd plain-html-single-page-cv
+   cd basic-html-website
    ```
 
 3. Open `index.html` directly in your browser.
 
-Alternatively, open the project in Visual Studio Code and use the Live Server extension to preview the webpage.
+Alternatively, open the project in Visual Studio Code and use the Live Server extension to preview the webpage. Make use of the navigation bar at the top tp move from one webpage to the other.
 
 No package installation, build process, or development server is required.
 
