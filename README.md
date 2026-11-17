@@ -6,7 +6,7 @@ This project was developed as part of the HTML Fundamentals learning path on [ro
 
 ## Live Demo
 
-[View the Live CV](https://7amarah.github.io/basic-html-website/)
+[View the Live Website](https://7amarah.github.io/basic-html-website/)
 
 ## Project Overview
 
