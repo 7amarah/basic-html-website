@@ -2,7 +2,7 @@
 
 A multi-paged, semantic, website built using plain HTML5.
 
-This project was developed as part of the HTML Fundamentals learning path on [roadmap.sh](https://roadmap.sh/packs/html/basic-html-website), with a focus on understanding how to structure a website semantically using HTML, making the website multiple pages and learning the fundamentals of SEO by implementation.
+This project was developed as part of the HTML Fundamentals learning path on [roadmap.sh](https://roadmap.sh/projects/basic-html-website), with a focus on understanding how to structure a website semantically using HTML, making the website multiple pages and learning the fundamentals of SEO by implementation.
 
 ## Live Demo
 
